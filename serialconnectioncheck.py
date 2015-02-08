@@ -1,3 +1,4 @@
+# /bin/bash
 import serial
 import binascii
 import struct
