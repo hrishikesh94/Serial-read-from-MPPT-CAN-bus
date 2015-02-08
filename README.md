@@ -4,4 +4,7 @@ A program that decodes the CAN bus data received from MPPT in the  IEEE single-p
 #Serialconnectioncheck.py
 this file is used to initialize the ewart candapter, open the port and receive the data from the MPPT canbus.
 
+#Setup.py
+Using py2exe, we can make an exe file out of this program. This was done to use the xbee on to any machine, also those that dont have python preinstalled.
 
+If you wish to use the code, or need any help, please contact: hrishikeshrao94@gmail.com
