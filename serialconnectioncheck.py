@@ -6,7 +6,7 @@ import time
 #ser.EIGHTBITS
 #ser.writeTimeout
 try:
-  ser = serial.Serial("COM4",500000,timeout=10)
+  ser = serial.Serial("COM4",500000,timeout=10)#Enter com port according to the com port detected
   #val=(hex(53)+hex(36)+'\r')
   #val2 = hex(86)
   a = ser.readable()
