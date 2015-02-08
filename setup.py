@@ -1,3 +1,5 @@
+# /bin/bash
+
 #use this file to create the exe file from the given python script
 
 from distutils.core import setup
